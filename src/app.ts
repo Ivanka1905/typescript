@@ -6,7 +6,8 @@ let notInitialize: undefined;
 function callback(a: number): number {
   return 100 + a;
 }
-
+// console.log("hi")
+// console.log(callback(5))
 age = 50;
 name1 = "Max";
 toggle = true;
